@@ -67,7 +67,7 @@ const {
   }
   });
   console.log('Plugins installed successful ✅')
-  console.log('your name connected to whatsapp ✅')
+  console.log('hamd-xmd😊 connected to whatsapp ✅')
   
   let up =`╔═════════════════╗
   ║      your name           
