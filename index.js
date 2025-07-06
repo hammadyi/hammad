@@ -70,19 +70,19 @@ const {
   console.log('hamd-xmd😊 connected to whatsapp ✅')
   
   let up =`╔═════════════════╗
-  ║      your name           
+  ║      hamd-xmd😊          
   ║  SUCCESSFULLY CONNECTED ✅ 😍        
   ╠═════════════════╣
   ║      • PREFIX: .            
   ╟─────────────────╢
   ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐋𝐈𝐍𝐊         
-  ║ https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306              
+  ║ https://whatsapp.com/channel/0029VbArblr9RZAQ5dnAyQ0r           
   ╟─────────────────╢
   ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐋𝐈𝐍𝐊          
-  ║ https://wa.me/message/VRZ5QLDAHXKSF1                 
+  ║ https://chat.whatsapp.com/EQbAXC85hdSHCEZqGnt5tO?mode=ac_c              
   ╠═════════════════╣
-  ║      your name               
-  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ your name       
+  ║      hamd-xmd😊              
+  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ hamd-xmd😊     
   ╚═════════════════╝
 `;
   conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/atby2t.png` }, caption: up })
